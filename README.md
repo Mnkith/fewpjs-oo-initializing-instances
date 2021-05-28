@@ -1,5 +1,5 @@
 # Initializing Instances
-
+ 
 ## Learning Goals
 
 - Create a class in JavaScript using the class keyword
